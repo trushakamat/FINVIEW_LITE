@@ -109,7 +109,7 @@ class _DashboardViewState extends State<DashboardView> {
     final isPositive = _portfolio!.isPositive;
     
     return SliverAppBar(
-      expandedHeight: 200,
+      expandedHeight: 220,
       pinned: true,
       backgroundColor: const Color(0xFF1A237E),
       flexibleSpace: FlexibleSpaceBar(
