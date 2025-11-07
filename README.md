@@ -54,7 +54,7 @@ Short description:
 - Detail: full chart, recent trades, and Buy / Sell actions (lightweight view).
 - Search: quick instrument lookup with favorites.
 
-Add screenshots to assets/screenshots/ and reference here:
+My App Screenshot:
 ![App Screenshot](./image.png)
 
 ## Demonstration / Screen recording
