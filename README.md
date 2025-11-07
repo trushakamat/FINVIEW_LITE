@@ -55,7 +55,7 @@ Short description:
 - Search: quick instrument lookup with favorites.
 
 Add screenshots to assets/screenshots/ and reference here:
-![App screenshot][alt text](image.png)
+![App Screenshot](./image.png)
 
 ## Demonstration / Screen recording
 Replace with your recording link:
