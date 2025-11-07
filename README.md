@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # finview_lite
 
@@ -166,3 +167,7 @@ If you want a generated changelog of every commit, run:
 - Update README with real screenshots and the actual demo link.
 - Check pubspec.yaml for the exact dependency versions and adjust Flutter SDK constraints accordingly.
 
+=======
+# FINVIEW_LITE
+ It allows users to visualize their investments, asset allocation, and returns using mock data.
+>>>>>>> e001aff49ac6af9b67a8e8767d1c7caa2addcaa3
