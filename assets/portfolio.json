@@ -1,0 +1,11 @@
+{
+"user": "Aarav Patel",
+"portfolio_value": 150000,
+"total_gain": 12000,
+"holdings": [
+{ "symbol": "TCS", "name": "Tata Consultancy", "units": 5, "avg_cost": 3200,
+"current_price": 3400 },
+{ "symbol": "INFY", "name": "Infosys Ltd", "units": 10, "avg_cost": 1400,
+"current_price": 1500 }
+]
+}
